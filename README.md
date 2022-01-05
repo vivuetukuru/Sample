@@ -1,3 +1,3 @@
 # Sample
 My second repository
-Sub  Branch 1
+Sub  Branch 2
